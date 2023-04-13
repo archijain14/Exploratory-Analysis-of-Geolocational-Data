@@ -1,6 +1,6 @@
 # Exploratory Analysis Of Geographical Data
 
-<img src="https://www.freeiconspng.com/uploads/weather-icon-png-2.png" width="100" height="100">
+<a href="https://www.freeiconspng.com/img/11063" title="Image from freeiconspng.com"><img src="https://www.freeiconspng.com/uploads/weather-icon-png-2.png" width="350" alt="Photos Weather Icon" /></a>
 
 
 

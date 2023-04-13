@@ -1,7 +1,6 @@
-# Exploratory-Analysis-of-Geolocational-Data
 # Exploratory Analysis Of Geographical Data
 
-<img src="https://img.freepik.com/free-vector/bound_53876-25486.jpg" width="100" height="100">
+<img src="https://www.freeiconspng.com/uploads/weather-icon-png-2.png" width="100" height="100">
 
 
 
@@ -32,7 +31,7 @@ The data used in this project is obtained from the Foursquare API. The API provi
 
 ## Results
 
-The project uses machine learning algorithms to analyze the data and provide recommendations to clients. The results are presented in the form of a table that shows the top-recommended venues based on the client's preferences and budget.
+The project uses machine learning algorithms to analyze the data and provide recommendations to clients. The results are presented in the form of a table that shows the top recommended venues based on the client's preferences and budget.
 
 ### Top Recommended Venues
 
